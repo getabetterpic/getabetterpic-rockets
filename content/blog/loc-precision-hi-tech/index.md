@@ -4,10 +4,10 @@ date: "2019-12-03T00:00:00.000Z"
 description: "Building a LOC/Precision Hi-Tech"
 ---
 
-### The Motor Mount
+## The Motor Mount
 
-The Hi-Tech doesn't come with motor retention, so let's add some! I went with an Aero Pack retaining ring which has a
-ring that attaches to the bottom of the included motor mount. A cap is then threaded over this once the motor has been
+The Hi-Tech doesn't come with motor retention, so let's add some! I went with an Aero Pack retainer which has a
+ring that attaches to the bottom of the motor mount. A cap is then threaded over this once the motor has been
 inserted to keep the motor from popping out on ejection.
 
 The Aero Pack retainer's instructions suggest cleaning the grooved inside of the retaining ring (the part that slides
@@ -44,3 +44,37 @@ in the joint between the centering ring and body tube. Make sure to wipe off any
 Leave the body tube standing upright while the epoxy finishes setting. Let this assembly dry overnight.
 
 ![Aft centering ring](./aft-centering-ring.jpg) 
+
+## The Fins
+
+Patience is the key to getting silky looking fins. Don't rush this step.
+
+Start by sanding the edge of a fin into a round shape. This will be the leading edge.
+
+![Leading edge of fin](./leading-edge.jpg)
+
+Then sand the other edge of a fin into a V-shape. This'll be the trailing edge.
+
+![Trailing edge of fin](./trailing-edge.jpg)
+
+Do the same for the other two fins.
+
+Now it's time to fill the fins. If you paint wood fins without filling, you'll see
+wood grain in the paint. To get rid of this, take some wood filler, mix with a small
+bit of water to make the consistency thinner, then spread over the fins. There's a
+balance to be had. Too much filler and it'll take longer to sand off. Too little
+and the painted fin won't be as smooth.
+
+![Wood filling the fins](./wood-filler.jpg)
+
+If you have some left over filler after filling the fins, you can start filling the body tube
+seams as well. I was a little heavy with the filler on the payload tube. I should've used
+a smaller stick to apply. 
+
+![Filling the payload tube](./filled-payload-tube.jpg)
+
+Once the filler finishes drying, it's time to sand. I started with 100 grit sandpaper
+to take the majority of the filler off, then started working my way to finer grits.
+150, 220, 400, 800. When done you're left with a silky smooth fin that'll paint great.
+
+![Sanded fin](./sanded-fin.jpg)
